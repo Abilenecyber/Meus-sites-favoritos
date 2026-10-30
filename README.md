@@ -28,27 +28,30 @@ Abaixo estão listados os sites favoritos salvos na aplicação, acompanhados de
 
 ---
 
-### 3. GitHub
-**Meu site favorito: GitHub**
-[![Logo do GitHub](github.jpg)](https://github.com)
+### 3. Meu site favorito: GitHub
+
+[![Logo do GitHub](github.png)](https://github.com)
+
 *Fonte da Imagem: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTM_V-D51DNeRI__q9QBNYMjmRF2fZDUpuEEwHh857gIg&s=10*
 
 [Acessar o GitHub](https://github.com)
 
 ---
 
-### 4. Khan Academy
-**Meu site favorito: Khan Academy**
+### 4. Meu site favorito: Khan Academy
+
 [![Logo do Khan Academy](khanacademy.jpg)](https://khanacademy.org)
+
 *Fonte da Imagem: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnrTS3rHjEFiP2nIRnADWlWaxUk789I2Y55kF99o10cg&s=10*
 
 [Acessar o Khan Academy](https://khanacademy.org)
 
 ---
 
-### 5. Canva
-**Meu site favorito: Canva**
+### 5. Meu site favorito: Canva
+
 [![Logo do Canva](canva.jpg)](https://canva.com)
+
 *Fonte da Imagem: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTajnOpIShkdRUNHMD7J_8cYXR0E-q-axeWcgdu55HrzlSW683riKXskhxA&s=10*
 
 [Acessar o Canva](https://canva.com)
