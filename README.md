@@ -40,7 +40,7 @@ Abaixo estão listados os sites favoritos salvos na aplicação, acompanhados de
 
 ### 4. Meu site favorito: Khan Academy
 
-[![Logo do Khan Academy](KhanAcademy.jpg)](https://khanacademy.org)
+[![Logo do Khan Academy](khanacademy.jpg)](https://khanacademy.org)
 
 *Fonte da Imagem: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnrTS3rHjEFiP2nIRnADWlWaxUk789I2Y55kF99o10cg&s=10*
 
@@ -51,7 +51,6 @@ Abaixo estão listados os sites favoritos salvos na aplicação, acompanhados de
 ### 5. Meu site favorito: Canva
 
 [![Logo do Canva](canva.jpg)](https://canva.com)
-
 *Fonte da Imagem: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTajnOpIShkdRUNHMD7J_8cYXR0E-q-axeWcgdu55HrzlSW683riKXskhxA&s=10*
 
 [Acessar o Canva](https://canva.com)
