@@ -1,16 +1,61 @@
-# Meus Sites Favoritos
+# Atividade: Meus Sites Favoritos
 
-Este projeto é uma página web simples desenvolvida como parte das atividades práticas do curso Técnico em Desenvolvimento de Sistemas. O objetivo principal é listar e estruturar meus sites favoritos utilizando conceitos básicos de HTML5, incluindo a organização correta de imagens, links e marcação de conteúdo.
+Este projeto foi desenvolvido como parte das atividades do **Curso Técnico em Desenvolvimento de Sistemas**. O objetivo é criar uma página web estruturada utilizando HTML5 para catalogar e organizar links de acesso rápido aos meus sites favoritos utilizados para estudos, trabalho e lazer.
 
-## 🚀 Tecnologias Utilizadas
-* **HTML5:** Estruturação da página e semântica dos elementos.
-* **Git & GitHub:** Versionamento e hospedagem do código-fonte.
+---
 
-## 🛠️ Funcionalidades
-* Exibição dos nomes dos sites utilizando títulos apropriados.
-* Exibição correta dos logotipos/imagens.
-* Links de acesso direto posicionados logo abaixo de cada imagem.
-* Legendas técnicas padronizadas e coladas aos respectivos logos.
+## 💻 Visualização do Projeto (Execução Local)
+
+Abaixo estão listados os sites favoritos salvos na aplicação, acompanhados de seus respectivos logotipos e links de redirecionamento:
+
+### 1. Google
+**Meu site favorito: Google**
+[![Logo do Google](google.jpg)](https://google.com)
+*Fonte da Imagem: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFr7C7IUAGiUgrfVMRP0NjYjEUHtC_JWBflIiaXXrWqw&s=10*
+
+[Acessar o Google](https://google.com)
+
+---
+
+### 2. YouTube
+**Meu site favorito: YouTube**
+[![Logo do YouTube](youtube.jpg)](https://youtube.com)
+*Fonte da Imagem: https://media.sellfy.store/images/qVJBX0Sq/IlAI/youtube_PNG13.png*
+
+[Acessar o YouTube](https://youtube.com)
+
+---
+
+### 3. GitHub
+**Meu site favorito: GitHub**
+[![Logo do GitHub](github.jpg)](https://github.com)
+*Fonte da Imagem: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTM_V-D51DNeRI__q9QBNYMjmRF2fZDUpuEEwHh857gIg&s=10*
+
+[Acessar o GitHub](https://github.com)
+
+---
+
+### 4. Khan Academy
+**Meu site favorito: Khan Academy**
+[![Logo do Khan Academy](khanacademy.jpg)](https://khanacademy.org)
+*Fonte da Imagem: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnrTS3rHjEFiP2nIRnADWlWaxUk789I2Y55kF99o10cg&s=10*
+
+[Acessar o Khan Academy](https://khanacademy.org)
+
+---
+
+### 5. Canva
+**Meu site favorito: Canva**
+[![Logo do Canva](canva.jpg)](https://canva.com)
+*Fonte da Imagem: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTajnOpIShkdRUNHMD7J_8cYXR0E-q-axeWcgdu55HrzlSW683riKXskhxA&s=10*
+
+[Acessar o Canva](https://canva.com)
+
+---
+
+## 🛠️ Tecnologias Utilizadas
+* **HTML5:** Estruturação semântica da página através de tags como `<figure>`, `<figcaption>`, `<h1>` e `<a>`.
+* **Git & GitHub:** Versionamento do código-fonte e hospedagem do repositório.
 
 ## 👤 Autor
 * Abilene Rodrigues Correia Jacinto
