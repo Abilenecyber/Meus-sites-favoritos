@@ -8,9 +8,10 @@ Este projeto foi desenvolvido como parte das atividades do **Curso Técnico em D
 
 Abaixo estão listados os sites favoritos salvos na aplicação, acompanhados de seus respectivos logotipos e links de redirecionamento:
 
-### 1. Google
-**Meu site favorito: Google**
+### 1. Meu site favorito: Google
+
 [![Logo do Google](google.jpg)](https://google.com)
+
 *Fonte da Imagem: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFr7C7IUAGiUgrfVMRP0NjYjEUHtC_JWBflIiaXXrWqw&s=10*
 
 [Acessar o Google](https://google.com)
