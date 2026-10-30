@@ -22,7 +22,7 @@ Abaixo estão listados os sites favoritos salvos na aplicação, acompanhados de
 
 [![Logo do YouTube](youtube.png)](https://youtube.com)
 
-*Fonte da Imagem: https://media.sellfy.store/images/qVJBX0Sq/IlAI/youtube_PNG13.png
+*Fonte da Imagem: https://media.sellfy.store/images/qVJBX0Sq/IlAI/youtube_PNG13.png*
 
 [Acessar o YouTube](https://youtube.com)
 
