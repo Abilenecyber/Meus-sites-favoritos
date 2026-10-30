@@ -30,7 +30,7 @@ Abaixo estão listados os sites favoritos salvos na aplicação, acompanhados de
 
 ### 3. Meu site favorito: GitHub
 
-[![Logo do GitHub](github.png)](https://github.com)
+[![Logo do GitHub](GitHub.png)](https://github.com)
 
 *Fonte da Imagem: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTM_V-D51DNeRI__q9QBNYMjmRF2fZDUpuEEwHh857gIg&s=10*
 
